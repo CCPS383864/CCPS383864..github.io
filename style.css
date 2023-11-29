@@ -8,3 +8,17 @@ P{
 }
 h1{Font-Family: Bradley Hand ITC; 
   color: green;
+footer {
+  margin-top: 50px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 5px;
+  background-color: #242f44;
+  z-index: 5;
+}
+footer h3 {
+  display: inline-block;
+  font-size: 14px;
+  background-color: #242f44;
+}
