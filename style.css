@@ -1,3 +1,9 @@
+body {
+  background-color: #242f44;
+  color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
 header{
   Font-Family: Edwardian Script ITC; 
   color: red;
