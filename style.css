@@ -28,10 +28,10 @@ footer h3 {
   font-size: 14px;
   background-color: #242f44;
 }
-.img {
-  text-align: center;
-  margin-top: 5px;
-}
-background-size: cover;
+
+.image {
+  background-image: url("https://ccps383864.github.io/CCPS383864..github.io/me.PNG");
+  background-size: cover;
   background-position: center;
   height: 300px;
+}
